@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-15T09:58:45.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="wb6LVN0yo1MyfFU3uopq" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-15T10:03:07.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="cRNOwgggv4lqGq849BRH" version="16.2.7" type="github">
   <diagram id="x9V3vo5HXDj5IL_ailm6" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -236,7 +236,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q9XKaDRnh7uLaNWa5Wyn-83" value="" style="whiteSpace=wrap;html=1;aspect=fixed;opacity=10;strokeWidth=11;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="521" y="198" width="80" height="80" as="geometry" />
+          <mxGeometry x="518" y="198" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q9XKaDRnh7uLaNWa5Wyn-87" value="" style="whiteSpace=wrap;html=1;aspect=fixed;opacity=10;strokeWidth=11;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="958" y="199" width="80" height="80" as="geometry" />
@@ -270,6 +270,18 @@
         </mxCell>
         <mxCell id="gF0sU6cO7U2H9i24CWZ3-4" value="Extended Jammer Area" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="897" y="376" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gF0sU6cO7U2H9i24CWZ3-5" value="Sliding&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Window 2&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="525" y="205" width="73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gF0sU6cO7U2H9i24CWZ3-6" value="Sliding&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Window 1&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="962" y="207" width="73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gF0sU6cO7U2H9i24CWZ3-7" value="Sliding&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Window 3&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="724" width="73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gF0sU6cO7U2H9i24CWZ3-8" value="Sliding&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Window 4&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1086" y="648" width="73" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
