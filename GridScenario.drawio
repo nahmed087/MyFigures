@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-16T11:31:26.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="fOmwMZ0oq_RIUWoxJvl8" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T21:29:05.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="L0Ns6lHeA5ZaQK81KKfP" version="16.2.7" type="github">
   <diagram id="x9V3vo5HXDj5IL_ailm6" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -282,9 +282,6 @@
         </mxCell>
         <mxCell id="gF0sU6cO7U2H9i24CWZ3-8" value="Sliding&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Window 4&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1086" y="648" width="73" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fGvsdP_ZD4qrW4mWh455-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/primitive-dot-128.png" vertex="1" parent="1">
-          <mxGeometry x="451" y="131" width="14" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
